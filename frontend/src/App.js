@@ -75,6 +75,7 @@ function App() {
       >
         <ToastContainer position="bottom-center" limit={1} />
         <header>
+          <meta name='keywords' content='store, amazon, target, walmart, halloween, charity, help, low prices' />
           <Navbar bg="dark" variant="dark" expand="lg">
             <Container>
               <Button
@@ -266,7 +267,7 @@ function App() {
           </Container>
         </main>
         <footer>
-          <div className="text-center">All rights reserved</div>
+          <div className="text-center">© ThePeoplesMarket 2022 All rights reserved</div>
         </footer>
       </div>
     </BrowserRouter>

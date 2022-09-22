@@ -131,7 +131,7 @@ function ProductScreen() {
             alt={product.name}
           ></img>
         </Col>
-        <Col md={3}>
+        <Col md={3} lg={12}>
           <ListGroup variant="flush">
             <ListGroup.Item>
               <Helmet>

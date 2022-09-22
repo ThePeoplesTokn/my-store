@@ -1,6 +1,6 @@
-# MERN AMAZONA
+# MERN MY-STORE
 
-![amazona](/frontend/public/images/amazona.jpg)
+
 
 # React Tutorial - Build ECommerce in 6 Hours [2022]
 
@@ -11,7 +11,7 @@ Watch it on Youtube:
 
 ## Demo Website
 
-- 👉 Heroku : [https://mern-amazona-app.herokuapp.com](https://mern-amazona-app.herokuapp.com)
+- 👉 Heroku : [https://mern-amazona-app.herokuapp.com](https://thepeoplesmarket.herokuapp.com)
 
 ## You Will Learn
 

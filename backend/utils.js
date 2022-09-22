@@ -102,7 +102,7 @@ export const payOrderEmailTemplate = (order) => {
   </p>
   <hr/>
   <p>
-  Thanks for shopping with us.
+  Thank you for shopping at ThePeoplesMarket.
   </p>
   `;
 };
